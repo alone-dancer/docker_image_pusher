@@ -1,4 +1,4 @@
-#在hub.docker.com查询image/tag等信息
+#在hub.docker.com查询image/tag等信息。
 trilium-cn
 nriver/trilium-cn:latest
 #支持指定架构
