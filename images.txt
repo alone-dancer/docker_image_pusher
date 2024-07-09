@@ -1,5 +1,2 @@
-trilium-cn
 nriver/trilium-cn
-
-lucky
 --platform=linux/amd64 gdy666/lucky:latest
