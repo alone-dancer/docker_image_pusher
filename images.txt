@@ -1,10 +1,8 @@
 #在hub.docker.com查询image/tag等信息。
 trilium-cn
-nriver/trilium-cn:latest
-#支持指定架构
---platform=linux/arm64 nriver/trilium-cn
+nriver/trilium-cn
+#不指定tag的话，默认为latest
 
 lucky
-gdy666/lucky:latest
 #支持指定架构
---platform=linux/arm64 gdy666/lucky
+--platform=linux/arm64 gdy666/lucky:latest
