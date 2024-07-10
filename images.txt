@@ -1,8 +1,3 @@
-nriver/trilium-cn
-gdy666/lucky
-xhofe/alist
-p3terx/aria2-pro
-p3terx/ariang
-amtoaer/bili-sync-rs
-xhongc/music_tag_web
-alturismo/xteve_guide2go
+dreamacro/clash
+haishanh/yacd
+mzz2017/v2raya
