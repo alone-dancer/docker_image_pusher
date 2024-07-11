@@ -1,9 +1,11 @@
 romancin/tinymediamanager:develop-v3.1.8
 jlesage/firefox
 selenium/standalone-chrome
-kasmweb/chrome
 m1k1o/neko:firefox
 m1k1o/neko:chromium
+m1k1o/neko:google-chrome
+m1k1o/neko:microsoft-edge
+m1k1o/neko:tor-browser
 frooodle/s-pdf
 yidadaa/chatgpt-next-web
 ghcr.io/mikenye/docker-youtube-dl
