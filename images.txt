@@ -1,4 +1,4 @@
-romancin/tinymediamanager-docker:develop-v3.1.8
+romancin/tinymediamanager:develop-v3.1.8
 jlesage/firefox
 selenium/standalone-chrome
 kasmweb/chrome
