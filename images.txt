@@ -32,3 +32,7 @@ talebook/talebook
 containrrr/watchtower
 
 spotdl/spotify-downloader:latest
+
+johngong/baidunetdisk
+yucatovo/baidunetdisk-docker
+johnshine/baidunetdisk-crossover-vnc
