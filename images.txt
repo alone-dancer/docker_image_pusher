@@ -1,15 +1,1 @@
-gdy666/lucky
-xhofe/alist
-amtoaer/bili-sync-rs
-xhongc/music_tag_web
-alturismo/xteve_guide2go
-jxxghp/moviepilot-v2
-dreamacro/clash
-haishanh/yacd
-mzz2017/v2raya
-frooodle/s-pdf
-yidadaa/chatgpt-next-web
-talebook/talebook
-0nlylty/exchatgpt
-containrrr/watchtower
-romancin/tinymediamanager:latest
+byaidu/pdf2zh
