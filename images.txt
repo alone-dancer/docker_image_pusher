@@ -33,3 +33,4 @@ adguard/adguardhome
 0nlylty/dockercopilot:UGREEN
 0nlylty/one-key-update:UGREEN
 0nlylty/exchatgpt
+ghcr.io/owo-network/deeplx
