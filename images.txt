@@ -1,1 +1,2 @@
-ghcr.io/guobao2333/deeplx-serverless
+byaidu/pdf2zh
+vaultwarden/server
