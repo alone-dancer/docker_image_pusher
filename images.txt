@@ -1,2 +1,3 @@
-byaidu/pdf2zh
-vaultwarden/server
+orekiiiiiiiiiiiii/auto-lady
+xhongc/music_tag_web
+jxxghp/moviepilot-v2
