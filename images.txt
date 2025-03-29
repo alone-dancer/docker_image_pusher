@@ -19,7 +19,8 @@ dreamacro/clash
 haishanh/yacd
 mzz2017/v2raya
 vaultwarden/server
-orekiiiiiiiiiiiii/auto-lady:latest
+metacubex/mihomo
+sooros5132/yt-dlp-web
 
 jlesage/firefox
 selenium/standalone-chrome
