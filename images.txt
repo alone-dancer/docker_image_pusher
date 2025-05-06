@@ -1,13 +1,3 @@
-gdy666/lucky
-xhofe/alist
-amtoaer/bili-sync-rs
-xhongc/music_tag_web
-alturismo/xteve_guide2go
-jxxghp/moviepilot-v2
-frooodle/s-pdf
-yidadaa/chatgpt-next-web
-lscr.io/linuxserver/calibre-web:latest
-talebook/talebook
 ghcr.io/cxfksword/douban-api-rs
 containrrr/watchtower
 romancin/tinymediamanager:latest
@@ -21,6 +11,11 @@ mzz2017/v2raya
 vaultwarden/server
 metacubex/mihomo
 sooros5132/yt-dlp-web
+ghcr.io/wukko/cobalt
+ghcr.io/alexta69/metube
+chigusa/bililive-go
+bililive/recorder
+jiangrui1994/cloudsaver
 
 jlesage/firefox
 selenium/standalone-chrome
@@ -31,7 +26,6 @@ m1k1o/neko:microsoft-edge
 m1k1o/neko:tor-browser
 ghcr.io/mikenye/docker-youtube-dl
 kmb32123/youtube-dl-server
-ghcr.io/wukko/cobalt
 adguard/adguardhome
 0nlylty/dockercopilot:UGREEN
 0nlylty/one-key-update:UGREEN
