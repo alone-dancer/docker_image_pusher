@@ -1,3 +1,13 @@
+gdy666/lucky
+xhofe/alist
+amtoaer/bili-sync-rs
+xhongc/music_tag_web
+alturismo/xteve_guide2go
+jxxghp/moviepilot-v2
+frooodle/s-pdf
+yidadaa/chatgpt-next-web
+lscr.io/linuxserver/calibre-web:latest
+talebook/talebook
 ghcr.io/cxfksword/douban-api-rs
 containrrr/watchtower
 romancin/tinymediamanager:latest
