@@ -26,6 +26,7 @@ ghcr.io/alexta69/metube
 chigusa/bililive-go
 bililive/recorder
 jiangrui1994/cloudsaver
+cloudnas/clouddrive
 
 jlesage/firefox
 selenium/standalone-chrome
