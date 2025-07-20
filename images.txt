@@ -27,6 +27,7 @@ chigusa/bililive-go
 bililive/recorder
 jiangrui1994/cloudsaver
 cloudnas/clouddrive2
+billchurch/webssh2
 
 jlesage/firefox
 selenium/standalone-chrome
