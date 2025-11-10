@@ -2,3 +2,4 @@ n8nio/n8n
 gdy666/lucky
 nyanmisaka/jellyfin
 amilys/embyserver
+fyb3roptik/threadfin
